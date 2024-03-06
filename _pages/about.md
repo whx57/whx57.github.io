@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a second year undergraduate student from [School of NUIST](https://rgzn.nuist.edu.cn/). My research interest includes 3d computer vision, computer graphics.
+I'm a first year graduate student from [School of NUIST](https://rgzn.nuist.edu.cn/) majoring in artificial intelligence. My research interest includes 3d computer vision, computer graphics.
 
 
 You can find my CV here: [wuxi's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
